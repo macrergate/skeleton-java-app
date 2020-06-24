@@ -7,6 +7,7 @@ public class QueryProcessor {
         if (s.contains("romeo and juliet")) {
             return "William Shakespeare";
         }
-        return "";
+
+        return "I don't know";
     }
 }
